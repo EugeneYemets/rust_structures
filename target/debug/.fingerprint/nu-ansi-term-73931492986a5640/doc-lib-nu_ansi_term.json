@@ -1,0 +1,1 @@
+{"rustc":12013579709055016942,"features":"[\"default\", \"std\"]","declared_features":"[\"default\", \"derive_serde_style\", \"gnu_legacy\", \"serde\", \"std\"]","target":5239985456149308223,"profile":9102090753619238930,"path":10680818951541476745,"deps":[],"local":[{"Precalculated":"0.50.3"}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
